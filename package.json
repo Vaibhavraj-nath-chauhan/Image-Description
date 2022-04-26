@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://Vaibhavraj-nath-chauhan.github.io/Image-Description",
   "dependencies": {
+    "@azure/cognitiveservices-computervision": "^8.2.0",
+    "@azure/ms-rest-azure-js": "^2.1.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
